@@ -113,3 +113,4 @@ Single-page Zendesk nav bar app with a two-panel layout:
 * Idle-time processing avoids UI blocking
 * Debug logs prefixed for easy filtering in DevTools
 
+<img width="800" height="338" alt="ConfigMap-v1 4 0" src="https://github.com/user-attachments/assets/e5dcc57f-d886-4112-a3ea-1552271e5b09" />
